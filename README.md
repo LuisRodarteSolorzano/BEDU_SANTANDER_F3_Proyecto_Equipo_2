@@ -25,7 +25,7 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 * Bases de datos utilizadas: [ravenpack_coronavirus_countries_historical.csv](./ravenpack_coronavirus_countries_historical.csv), [time_series_covid19_confirmed_global.csv](./time_series_covid19_confirmed_global.csv),  
 [time_series_covid19_deaths_global.csv](./time_series_covid19_deaths_global.csv)
 
-* Notebook extra con extracción de datos a través de una API: 
-- [apis.ipynb](./apis.ipynb)
+* Notebook extra donde se muestra el funcionamiento del API a través Postman: 
+- [Funcionamiento_del_API_a_traves_de_Postman.ipynb](./Funcionamiento_del_API_a_traves_de_Postman.ipynb)
 
 * [Video](https://youtu.be/gqgJ7dYVZjE)
