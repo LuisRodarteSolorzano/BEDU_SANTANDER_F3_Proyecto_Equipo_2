@@ -26,6 +26,11 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 [time_series_covid19_deaths_global.csv](./time_series_covid19_deaths_global.csv)
 
 ------
-* Notebooks extra donde se muestra: [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb), [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb) y  [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb), 
+* Notebooks extra donde se muestra: [Exploración de variables
+categóricas y análisis
+multivariable](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Exploraci%C3%B3n_de_variables_categ%C3%B3ricas_y_an%C3%A1lisis_multivariable.ipynb), [Introducción a Machine
+Learning: Clasificación
+No Supervisada y
+Supervisada](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb) y  [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb), 
 
 * [Video](https://youtu.be/gqgJ7dYVZjE)
