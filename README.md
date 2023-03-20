@@ -31,6 +31,6 @@ categóricas y análisis
 multivariable](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Exploraci%C3%B3n_de_variables_categ%C3%B3ricas_y_an%C3%A1lisis_multivariable.ipynb), [Introducción a Machine
 Learning: Clasificación
 No Supervisada y
-Supervisada](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb) y  [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb), 
+Supervisada](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Introducci%C3%B3n_a_Machine_Learning_Clasificaci%C3%B3n_No_Supervisada_y_Supervisada.ipynb) y  [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb), 
 
 * [Video](https://youtu.be/gqgJ7dYVZjE)
