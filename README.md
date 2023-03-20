@@ -26,6 +26,6 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 [time_series_covid19_deaths_global.csv](./time_series_covid19_deaths_global.csv)
 
 * Notebook extra donde se muestra el funcionamiento del API a través Postman: 
-- [Funcionamiento_del_API_a_traves_de_Postman](./Funcionamiento_del_API_a_traves_de_Postman.ipynb)
+- [Funcionamiento_del_API_a_traves_de_Postman](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb)
 
 * [Video](https://youtu.be/gqgJ7dYVZjE)
