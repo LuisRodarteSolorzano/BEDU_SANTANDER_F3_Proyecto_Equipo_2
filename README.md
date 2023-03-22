@@ -20,7 +20,7 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 
 ### Contenido:
 
-* Notebook con el desarrollo del proyecto:  [proyecto2_BEDU_FINAL.ipynb](./proyecto2_BEDU_FINAL.ipynb)
+* Notebook con el desarrollo del proyecto:  [Proyecto_Final_F3_Equipo2.ipynb](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Proyecto_Final_F3_Equipo2.ipynb)
 
 * Bases de datos utilizadas: [ravenpack_coronavirus_countries_historical.csv](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Data/ravenpack_coronavirus_countries_historical.csv), [time_series_covid19_confirmed_global.csv](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Data/time_series_covid19_confirmed_global.csv),  
 [time_series_covid19_deaths_global.csv](https://github.com/LuisRodarteSolorzano/BEDU_SANTANDER_F3_Proyecto_Equipo_2/blob/main/Data/time_series_covid19_deaths_global.csv)
